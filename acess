@@ -1,0 +1,7 @@
+mongodb+srv://itslucassouza:corsaflex@projectlanding.fbjgf.mongodb.net/strapi_landing?retryWrites=true&w=majority
+
+user: itslucassouza
+password: corsaflex
+host: projectlanding.fbjgf.mongodb.net
+port: 270717
+
